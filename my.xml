@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aliens>
+<alien id="1">
+<name> Miraj</name>
+<salary>25000</salary>
+</alien>
+
+<alien id="2">
+<name>Saki</name>
+<salary>40000</salary>
+</alien>
+</aliens>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/css" href="mystyle.css" ?>-->
+<users>
+	<user  id="1">
+		
+		<name>Harry</name>
+		<pass>0123</pass>
+		
+	</user>
+	<user id="2">
+			
+		<name>Kan</name>
+		<pass>0124</pass>
+	</user>
+	<user type="3">
+		
+		<name>Martial</name>
+		<pass>01235</pass>
+		
+	</user>
+</users>
